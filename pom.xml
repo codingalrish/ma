@@ -1,0 +1,10 @@
+<project>
+   <modelVersion>3.0.0</modelVersion>
+
+   <groupId>com.demo</groupId>
+   <artifactId>maven</artifactId>
+   <version>1.0</version>
+
+   <packaging>jar</packaging>
+</project>
+
