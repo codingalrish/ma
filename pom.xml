@@ -1,5 +1,5 @@
 <project>
-   <modelVersion>3.0.0</modelVersion>
+   <modelVersion>4.0.0</modelVersion>
 
    <groupId>com.demo</groupId>
    <artifactId>maven</artifactId>
